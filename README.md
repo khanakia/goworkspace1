@@ -2,6 +2,8 @@
 
 I was able to upgrade the modules using the following steps in older version of golang but not working in newer version
 
+Issue created: https://github.com/golang/go/issues/68784
+
 ```sh
 cd hello
 go get -u ./...
